@@ -11,7 +11,11 @@
     "tsx": "4.19.1"
   },
   "scripts": {
-    "s01e01": "bun s01e01/app.ts",
+    "s01e01": "bun --watch s01e01/app.ts",
+    "s01e02": "bun --watch s01e02/app.ts",
+    "s01e03": "bun --watch s01e03/app.ts",
+    "s01e04": "bun --watch s01e04/app.ts",
+    "s01e05": "bun --watch s01e05/app.ts",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
