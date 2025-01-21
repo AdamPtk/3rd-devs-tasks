@@ -19,6 +19,8 @@
     "s02e01": "bun --watch s02e01/app.ts",
     "s02e02": "bun --watch s02e02/app.ts",
     "s02e03": "bun --watch s02e03/app.ts",
+    "s02e04": "bun --watch s02e04/app.ts",
+    "s02e05": "bun --watch s02e05/app.ts",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
