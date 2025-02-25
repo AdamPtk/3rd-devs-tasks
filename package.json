@@ -30,6 +30,7 @@
     "s04e03": "bun --watch s04e03/app.ts",
     "s04e04": "bun --watch s04e04/app.ts",
     "s04e05": "bun --watch s04e05/app.ts",
+    "s05e01": "bun --watch s05e01/app.ts",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
